@@ -17,11 +17,11 @@ INSERT INTO `role` (title, salary, department_id) VALUES
 ('Lawyer', 190000, 4);
 ​
 INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES 
-('Aria', 'Sadeghi', 1, NULL),
-('Carlo', 'Nazareno', 2, 1),
-('Blah', 'Blah', 3, NULL),
-('Kevin', 'Tim', 4, 3),
-('Kunal', 'Singh', 5, NULL),
-('Malia', 'Brown', 6, 5),
-('Sarah', 'Lourd', 7, NULL),
-('Tom', 'Allen', 8, 7);
+('Jean', 'Li', 1, NULL),
+('Laura', 'Aydelotte', 2, 1),
+('Jenny', 'Lam', 3, NULL),
+('Kiara', 'Wu', 4, 3),
+('Jie', 'Yan', 5, NULL),
+('Nok', 'S', 6, 5),
+('Sulu', 'B', 7, NULL),
+('Tanya', 'Kim', 8, 7);
